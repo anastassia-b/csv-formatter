@@ -1,0 +1,24 @@
+{
+  "name": "csv-formatter",
+  "version": "1.0.0",
+  "description": "CSV formatter",
+  "main": "index.js",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "papaparse": "^4.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anastassia-b/csv-formatter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anastassia-b/csv-formatter/issues"
+  },
+  "homepage": "https://github.com/anastassia-b/csv-formatter#readme"
+}
