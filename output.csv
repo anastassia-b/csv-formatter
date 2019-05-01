@@ -1,0 +1,6 @@
+Objective: Win Super Bowl,KR: Passing attack amasses 300+ yards per game.,,Offensive Coach,0.7,0.6
+Objective: Win Super Bowl,KR: Defense allows fewer than 17 points per game.,,Defensive Coach,0.8,0.8
+Objective: Win Super Bowl,KR: Special teams unit ranks in top 3 in punt return coverage.,,Special Teams Coach,0.1,1.0
+Objective: Generate 300-yards-per-game passing attack,KR: Achieve 65% pass completion rate.,,Quarterback,0.7,0.5
+Objective: Generate 300-yards-per-game passing attack,KR: Cut interceptions to fewer than 1 per game.,,QB Coach,0.5,0.3
+Objective: Generate 300-yards-per-game passing attack,KR: Hire new quarterbacks coach.,,GM of Ops,1.0,1.0
